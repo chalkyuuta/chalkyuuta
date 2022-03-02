@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there 👋 I'm Chalk.
+![chalkyuuta's GitHub stats](https://github-readme-stats.vercel.app/api?username=chalkyuuta&show_icons=true&theme=tokyonight)
+## About Me
+ 🗿 Anish Sorrawit Poomseetong (15 yrs old). <br>
+💻 I'm currently single. ;w; <br>
+
 
 <!--
 **chalkyuuta/chalkyuuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
