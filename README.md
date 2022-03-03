@@ -1,9 +1,12 @@
+
 ## Hi there 👋 I'm Chalk.
 ![chalkyuuta's GitHub stats](https://github-readme-stats.vercel.app/api?username=chalkyuuta&show_icons=true&theme=tokyonight)
 ## About Me
- 🗿 Anish Sorrawit Poomseetong (15 yrs old). <br>
-💻 I'm currently single. ;w; <br>
-
+ 🗿 Sorrawit Poomseetong (15 yrs old).
+💻 I'm currently learning competitive C and making a website.
+## Here's the github with Ukraine image, so no one could sanction me.
+Actually, I don't want any war, so I yoinked the image from this link : https://github.blog/2022-03-02-our-response-to-the-war-in-ukraine/ and use it in my profile markdown.
+![UA](https://github.blog/wp-content/uploads/2022/03/1200x630-GitHub-1.png?resize=1600%2C850)
 
 <!--
 **chalkyuuta/chalkyuuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
