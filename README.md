@@ -1,9 +1,11 @@
 
 ## Hi there 👋 I'm Chalk.
-![chalkyuuta's GitHub stats](https://github-readme-stats.vercel.app/api?username=chalkyuuta&show_icons=true&theme=tokyonight)
-## About Me
  🗿 Sorrawit Poomseetong (15 yrs old).
 💻 I'm currently learning competitive C++.
+
+## Stats
+![chalkyuuta's GitHub stats](https://github-readme-stats.vercel.app/api?username=chalkyuuta&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chalkyuuta&theme=tokyonight)
+
 ## My schedule
 |Day             |Task1                          |Task2                        |
 |----------------|-------------------------------|-----------------------------|
